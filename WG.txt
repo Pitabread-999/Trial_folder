@@ -1,0 +1,30 @@
+
+- Platform based
+- press Jump to avoid obstacles
+- Core game play
+  skate forward then upon jumping 
+
+- 3 kinds of modes (freestyle with objectives, race, exhibition)
+
+
+- several objectives per level
+   - do a slide/grind on the rails
+   - collect the goal (crystal unicorn or whatsoever)
+   - collect at least 6 stars
+   - finish within time limit
+
+ - energy to activate a stunt
+
+- Exhibition Mode (ramp), along the levels, there will be gaps or special levels where the goal is to 
+- Social feature
+   - share accomplishment (unlocking new levels, 
+   - Beg/ ask for asd
+
+
+- Monetization
+   - Lil rob is usable at the very start with all the default gear / clothes
+   - We can sell make the following sellable
+      - Characters (unlockable ans sellable) - Goggles, Jay Jay, jack Knife,
+      - Characters (strictly sold) - Meaty, Flipz (since flipz is the only true skater that is a girl, it might do the trick to strictly make her unlockable and strictly in-app)
+      - Special gears
+            - gears that can improve speed   
